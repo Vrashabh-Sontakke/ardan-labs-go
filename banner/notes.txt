@@ -1,0 +1,6 @@
+width and text-length
+
+width of banner - text-length = margin
+
+  text
+--------
